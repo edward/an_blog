@@ -20,3 +20,6 @@ Double-click on `index.html` and it should open in a web browser. Then read the 
 ## Heroku
 
 Server is hosted here : https://shrouded-tor-85631.herokuapp.com/
+
+## Tutorials Used
+https://github.com/jw84/messenger-bot-tutorial <- This is so good
