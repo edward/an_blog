@@ -16,3 +16,7 @@ If only there was a web page in which I could reliably type things, the things w
 ## Usage
 
 Double-click on `index.html` and it should open in a web browser. Then read the things on the side and type in the inputs. Stop when there are enough words and then copy/paste the chunks into a publishing space. You’re now pretty much an auteur. Respect.
+
+## Heroku
+
+Server is hosted here : https://shrouded-tor-85631.herokuapp.com/
